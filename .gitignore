@@ -1,2 +1,18 @@
 .atl
 .claude
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+MemoryCaptures/
+UserSettings/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+.vsconfig
