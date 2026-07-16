@@ -12,7 +12,7 @@ Un ESP32 lee la distancia de un sensor ultrasonico HY-SRF05, la cifra con Ascon-
 
 ## 2. Ascon en 30 segundos
 
-Ascon-128 es un cifrado autenticado (AEAD = Authenticated Encryption with Associated Data). En una sola operacion produce tres salidas: **texto cifrado**, **nonce publico** y **tag** de autenticacion.
+Ascon-128 es un cifrado autenticado (AEAD = Authenticated Encryption with Associated Data). En una sola operacion produce dos salidas: **texto cifrado** y **tag** de autenticacion.
 
 | Parametro     | Tamano |
 |---------------|--------|
